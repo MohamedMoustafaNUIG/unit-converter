@@ -24,4 +24,5 @@ This reduces the amount of code written thus saving memory
 
 ## Planned Future Improvements
 * Expand app to include other measurment units (ie mass,temperature,electricity,etc)
+* Further precision improvements
 * UI improvement
